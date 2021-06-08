@@ -2,7 +2,7 @@ import { makeStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles((theme) => ({
 	container: {
-		backgroundColor: theme.palette.background.paper,
+		// 	backgroundColor: theme.palette.background.paper,
 		padding: theme.spacing(8, 0, 6),
 	},
 	icon: {
@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
 		flexGrow: 1,
 	},
 	footer: {
-		backgroundColor: theme.palette.background.paper,
+		// 	backgroundColor: theme.palette.background.paper,
 		padding: "50px 0",
 	},
 }));
